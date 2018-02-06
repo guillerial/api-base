@@ -1,0 +1,6 @@
+setuptools
+django
+sqlalchemy
+djangorestframework
+mysql-connector==2.1.6
+mysqlclient
